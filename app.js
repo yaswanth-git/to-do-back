@@ -33,7 +33,7 @@ const app = async () => {
     });
     const dataBase = client.db("project");
     tasks = dataBase.collection("task-list");
-    server.listen(5000, () => {
+    server.listen(process.env.PORT || 5000, () => {
       console.log("listening at 5000");
     });
   } catch (err) {
