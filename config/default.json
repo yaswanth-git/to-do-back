@@ -1,3 +1,3 @@
 {
-    "mongoURI":"mongodb+srv://Yaswanth:123456%40abc@todolist.f0pymv0.mongodb.net/ToDoList?retryWrites=true&w=majority"
+    "mongoURI":"mongodb+srv://Yaswanth:XcfGksDRnsQebdf2@todolist.f0pymv0.mongodb.net/?retryWrites=true&w=majority&appName=todolist"
 }
